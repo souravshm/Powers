@@ -9,12 +9,15 @@ Config/roxygen2/version: 8.1.1
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 Suggests: 
+    dplyr,
+    ggplot2,
     knitr,
     rmarkdown,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
-Imports: 
-    dplyr
+Imports:
+    dplyr,
+    ggplot2
 URL: https://github.com/souravshm/Powers
 BugReports: https://github.com/souravshm/Powers/issues
 VignetteBuilder: knitr
