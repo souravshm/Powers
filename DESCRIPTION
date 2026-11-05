@@ -14,3 +14,5 @@ Config/testthat/edition: 3
 Imports: 
     dplyr,
     ggplot2
+URL: https://github.com/souravshm/Powers
+BugReports: https://github.com/souravshm/Powers/issues
